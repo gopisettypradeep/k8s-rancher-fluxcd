@@ -1,0 +1,6 @@
+Control plane key components
+
+API Server
+Control manager 
+ectd - Its acts as database to store the current start of the pods and services.
+Schedular : Its 
