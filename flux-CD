@@ -1,0 +1,2 @@
+FluxCD is a Continuous Delivery (CD) and GitOps tool for Kubernetes.
+Flux is a Kubernetes-based application deployment and management solution. It works by monitoring your source code repository for changes and automatically generating deployments to keep your applications up to date.
